@@ -1,6 +1,3 @@
 .leaflet-container {
   background: #F4F3EC;
 }
-.leaflet-interactive:focus {
-    outline: none;
-}
