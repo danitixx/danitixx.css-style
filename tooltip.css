@@ -1,5 +1,4 @@
 .leaflet-tooltip.leaflet-interactive {
 	cursor: pointer;
 	pointer-events: none;
-	trigger: hover;
 	}
