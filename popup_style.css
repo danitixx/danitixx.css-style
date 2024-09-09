@@ -3,4 +3,6 @@
 	background: pink;
 	color: #333;
 	box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+	border: 1px solid #000;
+	border-radius: 10px;
 	}
