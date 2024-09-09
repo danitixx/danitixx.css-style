@@ -1,7 +1,7 @@
 .leaflet-tooltip {
 	position: absolute;
 	padding: 6px;
-	background-color: pink;
+	background-color: #FFC0CB;
 	border: 1px solid #fff;
 	border-radius: 10px;
 	color: #222;
