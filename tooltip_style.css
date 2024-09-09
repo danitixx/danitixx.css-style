@@ -1,10 +1,10 @@
 .leaflet-tooltip {
 	position: absolute;
-	padding: 6px;
-	background-color: #000000;
+	padding: 3px;
+	background-color: #FFC0CB;
 	border: 1px solid #000;
-	border-radius: 20px;
-	color: #222;
+	border-radius: 10px;
+	color: #000;
 	white-space: nowrap;
 	-webkit-user-select: none;
 	-moz-user-select: none;
